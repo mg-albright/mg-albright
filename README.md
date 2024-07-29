@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi! :)
+
+My name is Mary Grace Albright ("Mary Grace" or "MG"), and I am a PhD candidate in the [Department of Earth Sciences](https://earthsciences.uconn.edu/) at the University of Connecticut! I am part of the [Computational Climate Change (C3) Lab](https://climatechangelab.earthsciences.uconn.edu/), which is co-directed by Dr. Ran Feng and Dr. Clay Tabor.
+
+My research is primarily centered around paleoclimate, high resolution modeling, mesoscale convective systems (and how to track them), and equilibrium climate sensitivity. 
+
+If you are interested in any of my work, you can contact me at marygrace.albright@uconn.edu
 
 <!--
 **mg-albright/mg-albright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
