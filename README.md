@@ -6,7 +6,7 @@ My research is primarily centered around paleoclimate, high resolution modeling,
 
 If you are interested in any of my work, you can contact me at marygrace.albright@uconn.edu
 
-✨ I'm currently working on adapting the deep learning model used for tracking mesoscale convective systems (detailed [here](https://zenodo.org/records/13248327); repository [here](https://github.com/mariajmolina/ML-extremes-mcs/)) to be trained with global data so it can be applied to high-resolution paleoclimate simulations. This effort is part of the larger [PaleoWeather project](https://www.cesm.ucar.edu/working-groups/paleo/simulations/asd-paleoweather) ⛈
+✨ I'm currently working on adapting a deep learning model used for tracking mesoscale convective systems (detailed [here](https://zenodo.org/records/13248327); repository [here](https://github.com/mariajmolina/ML-extremes-mcs/)) to be trained with global data so it can be applied to high-resolution paleoclimate simulations. This effort is part of the larger [PaleoWeather project](https://www.cesm.ucar.edu/working-groups/paleo/simulations/asd-paleoweather) ⛈
 
 <!--
 **mg-albright/mg-albright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
